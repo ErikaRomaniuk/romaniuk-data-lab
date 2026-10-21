@@ -1,2 +1,3 @@
 Student: Erika Romaniuk
 Course: Analytics & Data Engineer
+School: Data Lab
